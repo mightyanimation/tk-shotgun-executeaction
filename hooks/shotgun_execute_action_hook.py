@@ -9,7 +9,7 @@
 # not expressly granted therein are reserved by Shotgun Software Inc.
 
 """
-Hook for ...
+Hook for...
 """
 
 from tank import Hook
